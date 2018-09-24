@@ -1,2 +1,0 @@
-# jetbrains-settings
-jetbrains-settings
