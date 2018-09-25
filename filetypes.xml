@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
+      <mapping pattern="manager" type="Python" />
     </extensionMap>
   </component>
 </application>
