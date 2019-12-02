@@ -1,0 +1,9 @@
+<application>
+  <component name="vgo">
+    <proxies>
+      <list>
+        <option value="off" />
+      </list>
+    </proxies>
+  </component>
+</application>
