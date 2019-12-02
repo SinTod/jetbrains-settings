@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="go.mod" type="PLAIN_TEXT" />
+      <removed_mapping pattern="go.mod" approved="true" type="go.mod" />
+      <removed_mapping pattern="go.mod" approved="true" type="go.mod" />
     </extensionMap>
   </component>
 </application>
