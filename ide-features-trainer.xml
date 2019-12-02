@@ -26,12 +26,12 @@
         <entry key="Goland2019.2.ExtractMethodRefactoringWithReturns" value="NOT_PASSED" />
         <entry key="Goland2019.2.FillStructFields" value="NOT_PASSED" />
         <entry key="Goland2019.2.RedundantTypeConversions" value="NOT_PASSED" />
-        <entry key="Goland2019.3.CreateFunctionFromFunctionType" value="NOT_PASSED" />
-        <entry key="Goland2019.3.DeleteParameterNames" value="NOT_PASSED" />
-        <entry key="Goland2019.3.DeleteUnusedParameters" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ExtractVariableWithError" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ForrLiveTemplate" value="NOT_PASSED" />
-        <entry key="Goland2019.3.ReuseSignatureTypes" value="NOT_PASSED" />
+        <entry key="Goland2019.3.CreateFunctionFromFunctionType" value="PASSED" />
+        <entry key="Goland2019.3.DeleteParameterNames" value="PASSED" />
+        <entry key="Goland2019.3.DeleteUnusedParameters" value="PASSED" />
+        <entry key="Goland2019.3.ExtractVariableWithError" value="PASSED" />
+        <entry key="Goland2019.3.ForrLiveTemplate" value="PASSED" />
+        <entry key="Goland2019.3.ReuseSignatureTypes" value="PASSED" />
         <entry key="GopherCon.CodeFormatting" value="NOT_PASSED" />
         <entry key="GopherCon.CommentLine" value="NOT_PASSED" />
         <entry key="GopherCon.ExtractFunction/Method" value="NOT_PASSED" />
