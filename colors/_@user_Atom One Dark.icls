@@ -4,7 +4,7 @@
     <property name="created">2019-11-29T11:39:14</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2019-12-02T10:10:11</property>
+    <property name="modified">2019-12-04T17:59:50</property>
     <property name="originalScheme">Atom One Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -35,6 +35,7 @@
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
     <option name="DOCUMENTATION_COLOR" value="282c34" />
     <option name="FILESTATUS_HIJACKED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="4f575f" />
     <option name="FILESTATUS_OBSOLETE" value="" />
     <option name="FILESTATUS_SUPPRESSED" value="" />
     <option name="FILESTATUS_SWITCHED" value="" />
