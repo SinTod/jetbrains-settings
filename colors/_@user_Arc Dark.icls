@@ -4,7 +4,7 @@
     <property name="created">2019-11-29T13:04:05</property>
     <property name="ide">GoLand</property>
     <property name="ideVersion">2019.2.5.0.0</property>
-    <property name="modified">2019-12-04T17:59:50</property>
+    <property name="modified">2019-12-07T01:34:38</property>
     <property name="originalScheme">Arc Dark</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -977,7 +977,15 @@
         <option name="FOREGROUND" value="a7a7a7" />
       </value>
     </option>
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
+      <value>
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="KOTLIN_IMPLICIT_EXHAUSTIVE_WHEN">
+      <value />
+    </option>
+    <option name="KOTLIN_LABEL">
       <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
@@ -2133,9 +2141,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="444773" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="5294e2" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
