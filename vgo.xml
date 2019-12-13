@@ -2,6 +2,7 @@
   <component name="vgo">
     <proxies>
       <list>
+        <option value="https://athens.altstory.com" />
         <option value="off" />
       </list>
     </proxies>
