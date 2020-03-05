@@ -2,9 +2,9 @@
   <component name="vgo">
     <proxies>
       <list>
+        <option value="https://athens.altstory.com" />
         <option value="https://goproxy.cn,direct" />
         <option value="https://goproxy.cn" />
-        <option value="https://athens.altstory.com" />
         <option value="off" />
         <option value="direct" />
       </list>
