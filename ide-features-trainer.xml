@@ -1,8 +1,8 @@
 <application>
   <component name="GroupManager">
     <expandedByName>
-      <entry name="Tutorials" expanded="false" />
-      <entry name="Projects" expanded="true" />
+      <entry name="Tutorials" expanded="true" />
+      <entry name="Projects" expanded="false" />
     </expandedByName>
   </component>
   <component name="LangManager">
