@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="tmpl" type="Go template" />
       <mapping pattern="go.mod" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
       <removed_mapping pattern="go.mod" approved="true" type="go.mod" />
