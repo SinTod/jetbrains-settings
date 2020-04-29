@@ -1,5 +1,34 @@
 <application>
   <component name="vgo">
+    <environment>
+      <map>
+        <entry key="GONOSUMDB">
+          <value>
+            <list>
+              <option value="git.altstory.com" />
+            </list>
+          </value>
+        </entry>
+        <entry key="GOPRIVATE">
+          <value>
+            <list>
+              <option value="git.altstory.com" />
+            </list>
+          </value>
+        </entry>
+        <entry key="GOPROXY">
+          <value>
+            <list>
+              <option value="https://goproxy.cn,direct" />
+              <option value="https://athens.altstory.com" />
+              <option value="https://goproxy.cn" />
+              <option value="off" />
+              <option value="direct" />
+            </list>
+          </value>
+        </entry>
+      </map>
+    </environment>
     <proxies>
       <list>
         <option value="https://athens.altstory.com" />
