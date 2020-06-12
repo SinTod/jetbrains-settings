@@ -1,12 +1,17 @@
 <application>
   <component name="GroupManager">
     <expandedByName>
-      <entry name="Tutorials" expanded="false" />
+      <entry name="Tutorials" expanded="true" />
       <entry name="Projects" expanded="true" />
     </expandedByName>
   </component>
   <component name="LangManager">
     <option name="languageName" value="go" />
+    <option name="languageToProjectMap">
+      <map>
+        <entry key="go" value="$USER_HOME$/GolandProjects/LearnGoProject" />
+      </map>
+    </option>
   </component>
   <component name="LessonStateBase">
     <option name="map">
@@ -14,6 +19,8 @@
         <entry key="Actions" value="NOT_PASSED" />
         <entry key="Basic Completion" value="NOT_PASSED" />
         <entry key="Class Search" value="NOT_PASSED" />
+        <entry key="Code completion for pointers" value="NOT_PASSED" />
+        <entry key="Code completion for type assertions and switch constructions" value="NOT_PASSED" />
         <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
         <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
@@ -47,6 +54,7 @@
         <entry key="GopherCon.ImplementMissingMethods" value="NOT_PASSED" />
         <entry key="GopherCon.Inline" value="NOT_PASSED" />
         <entry key="GopherCon.Rename" value="NOT_PASSED" />
+        <entry key="Handling errors with live and postfix templates" value="PASSED" />
         <entry key="Hippie Completion" value="NOT_PASSED" />
         <entry key="Method-Like Function Completion" value="NOT_PASSED" />
         <entry key="Move" value="NOT_PASSED" />
@@ -55,8 +63,10 @@
         <entry key="Navigation.FileStructure" value="NOT_PASSED" />
         <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
         <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
+        <entry key="New live and postfix templates" value="NOT_PASSED" />
         <entry key="Postfix Completion" value="NOT_PASSED" />
         <entry key="Postfix templates" value="NOT_PASSED" />
+        <entry key="Quick-fixes and refactorings in GoLand 2020.1" value="NOT_PASSED" />
         <entry key="Refactoring Menu" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="NOT_PASSED" />
@@ -66,6 +76,8 @@
         <entry key="Select" value="NOT_PASSED" />
         <entry key="Smart Type Completion" value="NOT_PASSED" />
         <entry key="Statement Completion" value="NOT_PASSED" />
+        <entry key="Using the Implement Methods action" value="NOT_PASSED" />
+        <entry key="Working with types" value="NOT_PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
         <entry key="swift.codeassistance.quickpopups" value="NOT_PASSED" />
         <entry key="swift.codegeneration.createfromusage" value="NOT_PASSED" />
