@@ -19,8 +19,8 @@
         <entry key="GOPROXY">
           <value>
             <list>
-              <option value="https://goproxy.cn,direct" />
               <option value="https://athens.altstory.com" />
+              <option value="https://goproxy.cn,direct" />
               <option value="https://goproxy.cn" />
               <option value="off" />
               <option value="direct" />
