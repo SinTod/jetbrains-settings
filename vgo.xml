@@ -19,6 +19,7 @@
         <entry key="GOPROXY">
           <value>
             <list>
+              <option value="https://goproxy.io,direct" />
               <option value="https://athens.altstory.com,direct" />
               <option value="https://athens.altstory.com" />
               <option value="https://goproxy.cn,direct" />
