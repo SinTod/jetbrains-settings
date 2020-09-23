@@ -41,12 +41,12 @@
         <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
         <entry key="goland2019.2.fillstructfields" value="NOT_PASSED" />
         <entry key="goland2019.2.redundanttypeconversions" value="NOT_PASSED" />
-        <entry key="goland2019.3.createfunctionfromfunctiontype" value="PASSED" />
-        <entry key="goland2019.3.deleteparameternames" value="PASSED" />
-        <entry key="goland2019.3.deleteunusedparameters" value="PASSED" />
-        <entry key="goland2019.3.extractvariablewitherror" value="PASSED" />
-        <entry key="goland2019.3.forrlivetemplate" value="PASSED" />
-        <entry key="goland2019.3.reusesignaturetypes" value="PASSED" />
+        <entry key="goland2019.3.createfunctionfromfunctiontype" value="NOT_PASSED" />
+        <entry key="goland2019.3.deleteparameternames" value="NOT_PASSED" />
+        <entry key="goland2019.3.deleteunusedparameters" value="NOT_PASSED" />
+        <entry key="goland2019.3.extractvariablewitherror" value="NOT_PASSED" />
+        <entry key="goland2019.3.forrlivetemplate" value="NOT_PASSED" />
+        <entry key="goland2019.3.reusesignaturetypes" value="NOT_PASSED" />
         <entry key="gophercon.codeformatting" value="NOT_PASSED" />
         <entry key="gophercon.commentline" value="NOT_PASSED" />
         <entry key="gophercon.extractfunction/method" value="NOT_PASSED" />
@@ -56,7 +56,7 @@
         <entry key="gophercon.implementmissingmethods" value="NOT_PASSED" />
         <entry key="gophercon.inline" value="NOT_PASSED" />
         <entry key="gophercon.rename" value="NOT_PASSED" />
-        <entry key="handling errors with live and postfix templates" value="PASSED" />
+        <entry key="handling errors with live and postfix templates" value="NOT_PASSED" />
         <entry key="hippie completion" value="NOT_PASSED" />
         <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
         <entry key="method-like function completion" value="NOT_PASSED" />
