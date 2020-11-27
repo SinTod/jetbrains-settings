@@ -19,6 +19,7 @@
         <entry key="actions" value="NOT_PASSED" />
         <entry key="basic completion" value="NOT_PASSED" />
         <entry key="class search" value="NOT_PASSED" />
+        <entry key="code completion for functions" value="NOT_PASSED" />
         <entry key="code completion for pointers" value="NOT_PASSED" />
         <entry key="code completion for type assertions and switch constructions" value="NOT_PASSED" />
         <entry key="codeassistance.codeformatting" value="NOT_PASSED" />
@@ -38,6 +39,7 @@
         <entry key="extract variable" value="NOT_PASSED" />
         <entry key="file structure" value="NOT_PASSED" />
         <entry key="fixing a test file" value="NOT_PASSED" />
+        <entry key="generate missing methods" value="NOT_PASSED" />
         <entry key="goland2019.2.extractmethodrefactoringwithreturns" value="NOT_PASSED" />
         <entry key="goland2019.2.fillstructfields" value="NOT_PASSED" />
         <entry key="goland2019.2.redundanttypeconversions" value="NOT_PASSED" />
@@ -57,6 +59,7 @@
         <entry key="gophercon.inline" value="NOT_PASSED" />
         <entry key="gophercon.rename" value="NOT_PASSED" />
         <entry key="handling errors with live and postfix templates" value="NOT_PASSED" />
+        <entry key="handling errors with live and postfix templates: if and rr" value="NOT_PASSED" />
         <entry key="hippie completion" value="NOT_PASSED" />
         <entry key="live and postfix templates: else, fori, and vars" value="NOT_PASSED" />
         <entry key="method-like function completion" value="NOT_PASSED" />
@@ -69,7 +72,9 @@
         <entry key="navigation.next/previousoccurrences" value="NOT_PASSED" />
         <entry key="new live and postfix templates" value="NOT_PASSED" />
         <entry key="postfix completion" value="NOT_PASSED" />
+        <entry key="postfix completion with sort" value="NOT_PASSED" />
         <entry key="postfix templates" value="NOT_PASSED" />
+        <entry key="postfix templates (nn, panic, rr, and return)" value="NOT_PASSED" />
         <entry key="quick-fixes and refactorings in goland 2020.1" value="NOT_PASSED" />
         <entry key="quick-fixes, refactorings, and external documentation" value="NOT_PASSED" />
         <entry key="refactoring menu" value="NOT_PASSED" />
@@ -80,6 +85,8 @@
         <entry key="rename" value="NOT_PASSED" />
         <entry key="select" value="NOT_PASSED" />
         <entry key="smart type completion" value="NOT_PASSED" />
+        <entry key="smart type completion and pointers" value="NOT_PASSED" />
+        <entry key="smart type completion for type assertions and switch constructions" value="NOT_PASSED" />
         <entry key="statement completion" value="NOT_PASSED" />
         <entry key="struct inspections" value="NOT_PASSED" />
         <entry key="swift.codeassistance.codeformatting" value="NOT_PASSED" />
@@ -106,9 +113,11 @@
         <entry key="swift.refactorings.extract.method" value="NOT_PASSED" />
         <entry key="swift.refactorings.extract.variable" value="NOT_PASSED" />
         <entry key="swift.refactorings.rename" value="NOT_PASSED" />
+        <entry key="using live templates with types" value="NOT_PASSED" />
         <entry key="using the implement methods action" value="NOT_PASSED" />
         <entry key="working with types" value="NOT_PASSED" />
         <entry key="working with variadic functions" value="NOT_PASSED" />
+        <entry key="wrapping long lines" value="NOT_PASSED" />
       </map>
     </option>
   </component>
