@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="test" type="PLAIN_TEXT" />
-      <mapping pattern="go.mod" type="PLAIN_TEXT" />
       <mapping ext="bolt" type="PLAIN_TEXT" />
       <mapping ext="sum" type="PLAIN_TEXT" />
       <mapping ext="qrc" type="XML" />
