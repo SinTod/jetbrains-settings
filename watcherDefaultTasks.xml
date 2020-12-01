@@ -2,7 +2,7 @@
   <component name="ApplicationTasksOptions">
     <global-watchers>
       <TaskOptions>
-        <option name="arguments" value="$FilePath$" />
+        <option name="arguments" value="-set_exit_status $FilePath$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
@@ -14,7 +14,7 @@
           <array />
         </option>
         <option name="outputFromStdout" value="false" />
-        <option name="program" value="echo" />
+        <option name="program" value="golint" />
         <option name="runOnExternalChanges" value="false" />
         <option name="scopeName" value="项目文件" />
         <option name="trackOnlyRoot" value="true" />
@@ -26,7 +26,7 @@
         </envs>
       </TaskOptions>
       <TaskOptions>
-        <option name="arguments" value="run --disable=typecheck --enable golint $FileDir$" />
+        <option name="arguments" value="run --disable-all -E golint $FileDir$" />
         <option name="checkSyntaxErrors" value="true" />
         <option name="description" />
         <option name="exitCodeBehavior" value="ERROR" />
